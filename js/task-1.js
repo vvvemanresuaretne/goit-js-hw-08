@@ -7,5 +7,3 @@ categoryItems.forEach(item => {
     console.log(`Категорія: ${title}`);
     console.log(`Кількість елементів: ${elementsCount}`);
 });
-
-
